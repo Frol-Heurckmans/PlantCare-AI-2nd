@@ -1,0 +1,32 @@
+[
+  {
+    "plantName": "Lavender",
+    "scientificName": "Lavandula angustifolia",
+    "isHealthy": true,
+    "healthScore": 95,
+    "diagnosis": "The lavender plants appear to be thriving with vibrant purple flowers and upright stems. There are no visible signs of disease, pests, or nutrient deficiencies. The overall growth and bloom density suggest optimal growing conditions.",
+    "careInstructions": [
+      "Ensure adequate sunlight (6-8 hours daily).",
+      "Water deeply but infrequently, allowing the soil to dry between waterings.",
+      "Prune lightly after flowering to promote bushier growth.",
+      "Fertilize sparingly with a balanced fertilizer in spring."
+    ],
+    "id": "280fbb87-136d-480b-89e0-a18cac2cf38b",
+    "timestamp": "2026-03-29T17:56:49"
+  },
+  {
+    "plantName": "Pink Carnation",
+    "scientificName": "Dianthus caryophyllus",
+    "isHealthy": true,
+    "healthScore": 85,
+    "diagnosis": "The plant exhibits robust growth with no visible pests or diseases. However, the mulch layer near the base appears slightly compacted, which could restrict airflow and moisture regulation.",
+    "careInstructions": [
+      "Loosen excess mulch around the plant base to improve soil aeration.",
+      "Water deeply when the top 2 inches of soil dry out, avoiding overwatering.",
+      "Apply a balanced fertilizer monthly during the growing season.",
+      "Deadhead spent blooms to encourage continuous flowering."
+    ],
+    "id": "26d80d1c-fea5-45df-a5a3-4804f8b55b47",
+    "timestamp": "2026-03-29T17:44:41"
+  }
+]
